@@ -1,0 +1,7 @@
+pandas
+sklearn
+scipy
+jupyter
+matplotlib
+gmaps
+jupyter_contrib_nbextensions
