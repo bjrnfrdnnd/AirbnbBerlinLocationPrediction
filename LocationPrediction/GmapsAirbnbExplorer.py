@@ -2,8 +2,8 @@ import numpy as np
 from IPython.display import display
 import ipywidgets as widgets
 import gmaps
-gmapsAPIKey = 'AIzaSyA2mnU4nhuF7vzR2pvLDb-LtFJcW_Vhx3w'
-gmaps.configure(api_key=gmapsAPIKey)
+# gmapsAPIKey = 'bla'
+# gmaps.configure(api_key=gmapsAPIKey)
 
 
 class AirbnbExplorer(object):
